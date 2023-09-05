@@ -1,0 +1,9 @@
+.DS_Store
+*.xml
+*.xlsx
+*.docx
+*.zip
+*.key
+*.txt
+*.iml
+/yidu-s4k
