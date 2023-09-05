@@ -1,7 +1,8 @@
 Dataset download from: http://openkg.cn/dataset/yidu-s4k
 
+# fine-tune openai LLM model
 
-# experiment of fine-tune openai davinci model to solve NER task
+experiment of fine-tune OpenAI davinci model to solve NER task
 
 # installation
 pip install --upgrade openai
