@@ -34,6 +34,6 @@ for ix, _row in enumerate(data):
 
 sample_data = pd.DataFrame({'prompt': prompt_lst, 'completion': completion_lst})
 
-sample_data.to_json('entities_.json', orient='records', lines=True)
+sample_data.to_json('./data/entities_.json', orient='records', lines=True)
 
 

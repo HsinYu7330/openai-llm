@@ -3,8 +3,8 @@
 *.xlsx
 *.docx
 *.zip
-*.key
 *.txt
 *.iml
 /yidu-s4k
 .idea
+src/api_key.txt
